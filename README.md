@@ -8,7 +8,7 @@ Amsterdam, Netherlands · [consultai.nl](https://consultai.nl) · [nitai.nijholt
 
 ## About
 
-MSc Computational Science *cum laude* (UvA, 2026). I build and ship end-to-end AI products — from architecture to measurable operational impact.
+MSc Computational Science (UvA, 2026). I build and ship end-to-end AI products — from architecture to measurable operational impact.
 
 Currently engineering LLM multi-agent systems at **[Causalix](https://github.com/CausalixAI)** (venture-backed, co-founded with Prof. Rick Quax, UvA Computational Science Lab) and delivering production AI systems through **[ConsultAI](https://consultai.nl)**.
 
@@ -52,10 +52,10 @@ Taught Modelling & Simulation, Scientific Data Analysis (3rd year BSc CS). Progr
 
 | Degree | Institution | GPA |
 |--------|-------------|-----|
-| MSc Computational Science *cum laude* | University of Amsterdam | 8.2 |
+| MSc Computational Science | University of Amsterdam | 8.2 |
 | Minor Computational Science | University of Amsterdam | 8.5 |
 | Minor Data Science & AI | University of Amsterdam | 8.9 |
-| BSc Business Administration: Finance *cum laude* | University of Amsterdam | 8.2 |
+| BSc Business Administration: Finance | University of Amsterdam | 8.2 |
 
 ---
 
