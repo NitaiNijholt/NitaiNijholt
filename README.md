@@ -52,10 +52,10 @@ Taught Modelling & Simulation, Scientific Data Analysis (3rd year BSc CS). Progr
 
 | Degree | Institution | GPA |
 |--------|-------------|-----|
-| MSc Computational Science | University of Amsterdam | 8.2 |
+| MSc Computational Science *cum laude* | University of Amsterdam | 8.2 |
 | Minor Computational Science | University of Amsterdam | 8.5 |
 | Minor Data Science & AI | University of Amsterdam | 8.9 |
-| BSc Business Administration: Finance | University of Amsterdam | 8.2 |
+| BSc Business Administration: Finance *cum laude* | University of Amsterdam | 8.2 |
 
 ---
 
